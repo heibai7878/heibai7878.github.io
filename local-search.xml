@@ -5,6 +5,19 @@
   
   <entry>
     <title></title>
+    <link href="/2023/10/16/sql%20%E6%89%8B%E5%8A%A8%E6%B3%A8%E5%85%A5/"/>
+    <url>/2023/10/16/sql%20%E6%89%8B%E5%8A%A8%E6%B3%A8%E5%85%A5/</url>
+    
+    <content type="html"><![CDATA[<h1>sql 手动注入</h1><h2 id="SQL注入即是指web应用程序对用户输入数据的合法性没有判断或过滤不严，攻击者可以在web应用程序中事先定义好的查询语句的结尾后，添加额外的SQL语句，在管理员不知情的情况下实现非法操作，以此来实现欺骗数据库服务器执行非授权的任意查询，从而进一步得到相应的数据信息。"><strong>SQL注入</strong>即是指web应用程序对用户输入数据的合法性没有判断或过滤不严，攻击者可以在web应用程序中<strong>事先定义好的查询语句的结尾</strong>后，<strong>添加额外的SQL语句</strong>，在管理员不知情的情况下实现<strong>非法操作</strong>，以此来实现欺骗数据库服务器执行<strong>非授权的任意查询</strong>，从而进一步得到相应的数据信息。</h2><ul class="lvl-0"><li class="lvl-2"><p>浏览器通常使用 ? 来表示GET方法传递参数，<strong>而使用POST传递参数是不会显示到URL中的</strong>，因此URL中含有？说明就是使用<strong>GET方法</strong>传递参数。POST型注入和Cookie注入需要插件和工具才可进行</p></li><li class="lvl-2"><p>常见的注入方式：数字型、字符型</p></li><li class="lvl-2"><p>注入手法分类：联合查询注入、报错注入、基于布尔的盲注、基于时间的盲注、HTTP头注入、宽字节注入、堆叠查询、二阶注入。</p></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
     <link href="/2023/10/15/png%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%9B%BE%E7%89%87%E7%BC%96%E7%A0%81/"/>
     <url>/2023/10/15/png%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%9B%BE%E7%89%87%E7%BC%96%E7%A0%81/</url>
     
